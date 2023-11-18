@@ -8,5 +8,6 @@ namespace MethodCollection
 {
     internal interface IWrite
     {
+        void WriteInFile();
     }
 }

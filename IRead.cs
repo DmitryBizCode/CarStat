@@ -8,5 +8,6 @@ namespace MethodCollection
 {
     internal interface IRead
     {
+        void ReadOutFile();
     }
 }
